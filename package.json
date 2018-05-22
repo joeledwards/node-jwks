@@ -1,0 +1,27 @@
+{
+  "name": "@buzuli/jwks",
+  "version": "1.0.0",
+  "description": "JWKS management with caching and multi-URI support",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeledwards/node-jwks.git"
+  },
+  "keywords": [
+    "jwks",
+    "jwt",
+    "jws",
+    "oidc",
+    "rsa",
+    "ec"
+  ],
+  "author": "Joel Edwards <joeledwards@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeledwards/node-jwks/issues"
+  },
+  "homepage": "https://github.com/joeledwards/node-jwks#readme"
+}
