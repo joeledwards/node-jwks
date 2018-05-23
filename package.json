@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/joeledwards/node-jwks/issues"
   },
-  "homepage": "https://github.com/joeledwards/node-jwks#readme"
+  "homepage": "https://github.com/joeledwards/node-jwks#readme",
+  "dependencies": {
+    "@buzuli/scheduler": "^2.0.0",
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "tap": "^12.0.1"
+  }
 }
